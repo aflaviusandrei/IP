@@ -1,0 +1,11 @@
+import java.util.Vector;
+
+// 
+// Decompiled by Procyon v0.5.36
+// 
+
+public class Universitate
+{
+    public Integer location;
+    public Vector myFacultate;
+}
